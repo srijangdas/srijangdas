@@ -1,76 +1,80 @@
 <h1 align="center">Hi 👋, I'm Srijan Das</h1>
-<h3 align="center">Full Stack Web & Mobile Developer | Problem Solver | Part-time Game Developer</h3>
+<h3 align="center">Full Stack Developer | Backend-Focused Engineer | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SrijanDas&label=Profile%20views&color=0e75b6&style=flat" alt="SrijanDas" />
+  <img src="https://komarev.com/ghpvc/?username=srijangdas&label=Profile%20views&color=0e75b6&style=flat" alt="srijangdas" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
-- 💻 I specialize in **MERN stack** (MongoDB, Express.js, React.js, Node.js)
-- 📱 I develop **cross-platform mobile apps** using **React Native**
-- 🎯 Passionate about building real-world projects with performance, scalability, and design in mind
-- 💡 Currently exploring **AI-powered apps** and building my own **Stock Market App with Kotak API**
-- ⚡ Fun Fact: I can debug better at 2AM than 2PM
+- 💻 Full Stack Developer with strong focus on **Backend Engineering**
+- ⚙️ Experienced in building **scalable systems using Spring Boot, REST APIs, and PostgreSQL**
+- 🌐 Skilled in **React.js** for building responsive and performant user interfaces
+- 📱 Building **AI-powered applications** and **real-time systems**
+- 🚀 Currently working on:
+  - **StackIt** – Full Stack Q&A Platform (like StackOverflow)
+  - **AI Grocery Assistant for Blind Users** (Voice-first AI app)
+- 🎯 Interested in **Distributed Systems, System Design, and High-Performance Applications**
 
 ---
 
 ### 🛠️ Tech Stack
-#### 💻 Web Development
-![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+
+#### ⚙️ Backend
+![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot)
+![REST API](https://img.shields.io/badge/-REST%20API-02569B?style=flat-square)
+![JWT](https://img.shields.io/badge/-JWT-000?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 
-#### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat-square&logo=react)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo)
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css)
 
-#### 🧠 Other Tools
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-EF476F?style=flat-square&logo=framer)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+#### ☁️ DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
+
+#### 🎮 Other
+![Unity](https://img.shields.io/badge/-Unity-000?style=flat-square&logo=unity)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🔹 StackIt – Full Stack Q&A Platform
+- Built using **React + Spring Boot + PostgreSQL**
+- Features: Authentication (JWT), Voting, Tagging, Notifications
+- Designed scalable backend with optimized queries and modular architecture
+
+#### 🔹 AI Grocery Assistant for Blind Users *(In Progress)*
+- Voice-first mobile platform using **Flutter + Spring Boot + OpenAI API**
+- AI-powered conversational assistant with contextual understanding
+- Community-driven fulfillment system using local vendors
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SrijanDas&show_icons=true&theme=radical" alt="Srijan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srijangdas&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrijanDas&theme=radical" alt="Srijan's streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srijangdas&theme=radical" />
 </p>
 
 ---
 
 ### 🔗 Connect With Me
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://srijandev.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/srijan-das](https://www.linkedin.com/in/srijangdas/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/srijangdas)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:srijangod10@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/GodsTheGuy_TM)
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
-
-<!--
-**srijangdas/srijangdas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "First solve the problem, then write the code." – John Johnson
