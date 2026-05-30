@@ -7,6 +7,12 @@
 
 ---
 
+###First Check my Works:
+Portfolio:https://srijandev.vercel.app/
+Play Store App: https://play.google.com/store/apps/details?id=com.highcore.hoopstars&hl=en_IN
+NextJS & Supabase Website: fly-away-lime.vercel.app
+PERN Website: https://code-overflow-ivory.vercel.app
+
 ### 👨‍💻 About Me
 - 💻 Full Stack Developer with strong focus on **Backend Engineering**
 - ⚙️ Experienced in building **scalable systems using Spring Boot, REST APIs, and PostgreSQL**
