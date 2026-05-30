@@ -6,12 +6,18 @@
 </p>
 
 ---
+### 🚀 Featured Work
 
-###First Check my Works:
-Portfolio:https://srijandev.vercel.app/
-Play Store App: https://play.google.com/store/apps/details?id=com.highcore.hoopstars&hl=en_IN
-NextJS & Supabase Website: fly-away-lime.vercel.app
-PERN Website: https://code-overflow-ivory.vercel.app
+<div align="center">
+
+| Project | Description | Link |
+|----------|-------------|------|
+| 🌐 **Portfolio** | My personal developer portfolio | <a href="https://srijandev.vercel.app/">Visit</a> |
+| 📱 **Hoop Fight** | Published Play Store game | <a href="https://play.google.com/store/apps/details?id=com.highcore.hoopstars&hl=en_IN">View App</a> |
+| ✈️ **FlyAway** | Next.js + Supabase travel platform | <a href="https://fly-away-lime.vercel.app">Live Demo</a> |
+| 💻 **CodeOverflow** | PERN Stack Q&A platform | <a href="https://code-overflow-ivory.vercel.app">Live Demo</a> |
+
+</div>
 
 ### 👨‍💻 About Me
 - 💻 Full Stack Developer with strong focus on **Backend Engineering**
